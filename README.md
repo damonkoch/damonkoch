@@ -23,8 +23,8 @@
     <a href=""><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
     <!--<a href=""><img src="https://img.shields.io/badge/CSDN-CSDN-c32136" /></a>&emsp;
-     visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=damonkoch&label=Views&color=0e75b6&style=flat" alt="visiters" />
+     visitor statistics logo  
+    <img src="https://komarev.com/ghpvc/?username=damonkoch&label=Views&color=0e75b6&style=flat" alt="visiters" />-->
   </div>
   
   <!-- Snake Code Contribution Map -->
