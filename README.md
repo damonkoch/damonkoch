@@ -3,7 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wish you happy today!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello! I am Damon Koch!&center=true&size=27" />
     </a>
   </div>
 
@@ -27,7 +27,7 @@
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=damonkoch&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
