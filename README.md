@@ -56,7 +56,7 @@
 ### 🏢 Work Experience
 
 
-- [Hauck, Gislason and Walker Group](https://www.tuhuimap.com/) &emsp; 📌 2020-06-19 —— 2023-08-01
+- [Hauck, Gislason and Walker Group]() &emsp; 📌 2020-06-19 —— 2023-08-01
   - Planting Operator
   - Computer Vision
 
