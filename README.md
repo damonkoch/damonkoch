@@ -45,8 +45,8 @@
 ### 🤺 About Me
 
 
-<p>&emsp;&emsp;I am Damon Koch.</p>
-<p>&emsp;&emsp;I am currently a Ph.D student in Liberty University.</p>
+<p>&emsp;&emsp;Damon Koch.</p>
+<p>&emsp;&emsp;Currently a Ph.D student in Liberty University.</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
